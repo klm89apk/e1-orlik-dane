@@ -1,23 +1,23 @@
-[
-  {
+	[
+	  {
     "queue": 1,
     "matches": [
       {
         "matchId": "dc0f803e-f36e-45d7-94a3-8307bf91a313",
         "dateTime": "2026-09-05T13:00:00",
-        "stadium": "Szybowa 22, 44-348 Krostoszowice",
+        "stadium": "Szybowa 22 , 44-348 Krostoszowice",
         "state": "Nierozegrany",
         "queue": 1,
         "canDateTimeChange": true,
         "host": {
           "id": "9d73f77e-69ea-499a-ba28-062d51db422d",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/2/a/67af6929a893e47ddc086a20__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/2/a/67af6929a893e47ddc086a20w64h64",
           "name": "UKS SP WINNERS GOŁKOWICE II",
           "abbreviation": ""
         },
         "guest": {
           "id": "70e4e1e9-5e97-4641-ab44-cbb0c645301c",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/6/e/9/689f9f9fa893e47ddc14b9e6__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/6/e/9/689f9f9fa893e47ddc14b9e6w64h64",
           "name": "UKS RUPTAWA",
           "abbreviation": ""
         },
@@ -37,7 +37,7 @@
         },
         "guest": {
           "id": "50cbcd8c-0cc4-4e4a-9ba2-3c6aee3284bb",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/f/8/7/641cc698a893e47ddc06878f__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/f/8/7/641cc698a893e47ddc06878fw64h64",
           "name": "UKS AP CHAMPIONS JASTRZĘBIE-ZDRÓJ  II",
           "abbreviation": ""
         },
@@ -52,21 +52,21 @@
         "canDateTimeChange": true,
         "host": {
           "id": "98dc8e5f-07dd-46e4-a58a-498dc0baadc1",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/4/4/8/642098caa893e47ddc068844__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/4/4/8/642098caa893e47ddc068844w64h64",
           "name": "GKS PIERWSZY CHWAŁOWICE",
           "abbreviation": ""
         },
         "guest": {
           "id": "79415f7f-e24e-4f8d-8854-3beadc2d0fd8",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/c/1/2/6127dce7eeb389649d4aa21c__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/c/1/2/6127dce7eeb389649d4aa21cw64h64",
           "name": "AP RYMER RYBNIK II",
           "abbreviation": ""
         },
         "transmissions": []
       }
     ]
-  },
-  {
+	  },
+	  {
     "queue": 2,
     "matches": [
       {
@@ -78,13 +78,13 @@
         "canDateTimeChange": true,
         "host": {
           "id": "50cbcd8c-0cc4-4e4a-9ba2-3c6aee3284bb",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/f/8/7/641cc698a893e47ddc06878f__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/f/8/7/641cc698a893e47ddc06878fw64h64",
           "name": "UKS AP CHAMPIONS JASTRZĘBIE-ZDRÓJ  II",
           "abbreviation": ""
         },
         "guest": {
           "id": "98dc8e5f-07dd-46e4-a58a-498dc0baadc1",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/4/4/8/642098caa893e47ddc068844__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/4/4/8/642098caa893e47ddc068844w64h64",
           "name": "GKS PIERWSZY CHWAŁOWICE",
           "abbreviation": ""
         },
@@ -99,13 +99,13 @@
         "canDateTimeChange": true,
         "host": {
           "id": "70e4e1e9-5e97-4641-ab44-cbb0c645301c",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/6/e/9/689f9f9fa893e47ddc14b9e6__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/6/e/9/689f9f9fa893e47ddc14b9e6w64h64",
           "name": "UKS RUPTAWA",
           "abbreviation": ""
         },
         "guest": {
           "id": "79415f7f-e24e-4f8d-8854-3beadc2d0fd8",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/c/1/2/6127dce7eeb389649d4aa21c__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/c/1/2/6127dce7eeb389649d4aa21cw64h64",
           "name": "AP RYMER RYBNIK II",
           "abbreviation": ""
         },
@@ -114,13 +114,13 @@
       {
         "matchId": "0ca8afa1-6d86-4296-96d8-ef98957709cf",
         "dateTime": "2026-09-15T17:45:00",
-        "stadium": "Szybowa 22, 44-348 Krostoszowice",
+        "stadium": "Szybowa 22 , 44-348 Krostoszowice",
         "state": "Nierozegrany",
         "queue": 2,
         "canDateTimeChange": true,
         "host": {
           "id": "9d73f77e-69ea-499a-ba28-062d51db422d",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/2/a/67af6929a893e47ddc086a20__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/2/a/67af6929a893e47ddc086a20w64h64",
           "name": "UKS SP WINNERS GOŁKOWICE II",
           "abbreviation": ""
         },
@@ -132,8 +132,8 @@
         "transmissions": []
       }
     ]
-  },
-  {
+	  },
+	  {
     "queue": 3,
     "matches": [
       {
@@ -145,13 +145,13 @@
         "canDateTimeChange": true,
         "host": {
           "id": "79415f7f-e24e-4f8d-8854-3beadc2d0fd8",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/c/1/2/6127dce7eeb389649d4aa21c__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/c/1/2/6127dce7eeb389649d4aa21cw64h64",
           "name": "AP RYMER RYBNIK II",
           "abbreviation": ""
         },
         "guest": {
           "id": "50cbcd8c-0cc4-4e4a-9ba2-3c6aee3284bb",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/f/8/7/641cc698a893e47ddc06878f__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/f/8/7/641cc698a893e47ddc06878fw64h64",
           "name": "UKS AP CHAMPIONS JASTRZĘBIE-ZDRÓJ  II",
           "abbreviation": ""
         },
@@ -171,7 +171,7 @@
         },
         "guest": {
           "id": "70e4e1e9-5e97-4641-ab44-cbb0c645301c",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/6/e/9/689f9f9fa893e47ddc14b9e6__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/6/e/9/689f9f9fa893e47ddc14b9e6w64h64",
           "name": "UKS RUPTAWA",
           "abbreviation": ""
         },
@@ -186,21 +186,21 @@
         "canDateTimeChange": true,
         "host": {
           "id": "98dc8e5f-07dd-46e4-a58a-498dc0baadc1",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/4/4/8/642098caa893e47ddc068844__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/4/4/8/642098caa893e47ddc068844w64h64",
           "name": "GKS PIERWSZY CHWAŁOWICE",
           "abbreviation": ""
         },
         "guest": {
           "id": "9d73f77e-69ea-499a-ba28-062d51db422d",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/2/a/67af6929a893e47ddc086a20__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/2/a/67af6929a893e47ddc086a20w64h64",
           "name": "UKS SP WINNERS GOŁKOWICE II",
           "abbreviation": ""
         },
         "transmissions": []
       }
     ]
-  },
-  {
+	  },
+	  {
     "queue": 4,
     "matches": [
       {
@@ -217,7 +217,7 @@
         },
         "guest": {
           "id": "98dc8e5f-07dd-46e4-a58a-498dc0baadc1",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/4/4/8/642098caa893e47ddc068844__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/4/4/8/642098caa893e47ddc068844w64h64",
           "name": "GKS PIERWSZY CHWAŁOWICE",
           "abbreviation": ""
         },
@@ -232,13 +232,13 @@
         "canDateTimeChange": true,
         "host": {
           "id": "70e4e1e9-5e97-4641-ab44-cbb0c645301c",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/6/e/9/689f9f9fa893e47ddc14b9e6__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/6/e/9/689f9f9fa893e47ddc14b9e6w64h64",
           "name": "UKS RUPTAWA",
           "abbreviation": ""
         },
         "guest": {
           "id": "50cbcd8c-0cc4-4e4a-9ba2-3c6aee3284bb",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/f/8/7/641cc698a893e47ddc06878f__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/f/8/7/641cc698a893e47ddc06878fw64h64",
           "name": "UKS AP CHAMPIONS JASTRZĘBIE-ZDRÓJ  II",
           "abbreviation": ""
         },
@@ -253,21 +253,21 @@
         "canDateTimeChange": true,
         "host": {
           "id": "9d73f77e-69ea-499a-ba28-062d51db422d",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/2/a/67af6929a893e47ddc086a20__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/2/a/67af6929a893e47ddc086a20w64h64",
           "name": "UKS SP WINNERS GOŁKOWICE II",
           "abbreviation": ""
         },
         "guest": {
           "id": "79415f7f-e24e-4f8d-8854-3beadc2d0fd8",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/c/1/2/6127dce7eeb389649d4aa21c__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/c/1/2/6127dce7eeb389649d4aa21cw64h64",
           "name": "AP RYMER RYBNIK II",
           "abbreviation": ""
         },
         "transmissions": []
       }
     ]
-  },
-  {
+	  },
+	  {
     "queue": 5,
     "matches": [
       {
@@ -279,13 +279,13 @@
         "canDateTimeChange": true,
         "host": {
           "id": "50cbcd8c-0cc4-4e4a-9ba2-3c6aee3284bb",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/f/8/7/641cc698a893e47ddc06878f__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/f/8/7/641cc698a893e47ddc06878fw64h64",
           "name": "UKS AP CHAMPIONS JASTRZĘBIE-ZDRÓJ  II",
           "abbreviation": ""
         },
         "guest": {
           "id": "9d73f77e-69ea-499a-ba28-062d51db422d",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/2/a/67af6929a893e47ddc086a20__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/2/a/67af6929a893e47ddc086a20w64h64",
           "name": "UKS SP WINNERS GOŁKOWICE II",
           "abbreviation": ""
         },
@@ -300,13 +300,13 @@
         "canDateTimeChange": true,
         "host": {
           "id": "98dc8e5f-07dd-46e4-a58a-498dc0baadc1",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/4/4/8/642098caa893e47ddc068844__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/4/4/8/642098caa893e47ddc068844w64h64",
           "name": "GKS PIERWSZY CHWAŁOWICE",
           "abbreviation": ""
         },
         "guest": {
           "id": "70e4e1e9-5e97-4641-ab44-cbb0c645301c",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/6/e/9/689f9f9fa893e47ddc14b9e6__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/6/e/9/689f9f9fa893e47ddc14b9e6w64h64",
           "name": "UKS RUPTAWA",
           "abbreviation": ""
         },
@@ -321,7 +321,7 @@
         "canDateTimeChange": true,
         "host": {
           "id": "79415f7f-e24e-4f8d-8854-3beadc2d0fd8",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/c/1/2/6127dce7eeb389649d4aa21c__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/c/1/2/6127dce7eeb389649d4aa21cw64h64",
           "name": "AP RYMER RYBNIK II",
           "abbreviation": ""
         },
@@ -333,8 +333,8 @@
         "transmissions": []
       }
     ]
-  },
-  {
+	  },
+	  {
     "queue": 6,
     "matches": [
       {
@@ -346,13 +346,13 @@
         "canDateTimeChange": true,
         "host": {
           "id": "70e4e1e9-5e97-4641-ab44-cbb0c645301c",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/6/e/9/689f9f9fa893e47ddc14b9e6__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/6/e/9/689f9f9fa893e47ddc14b9e6w64h64",
           "name": "UKS RUPTAWA",
           "abbreviation": ""
         },
         "guest": {
           "id": "9d73f77e-69ea-499a-ba28-062d51db422d",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/2/a/67af6929a893e47ddc086a20__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/2/a/67af6929a893e47ddc086a20w64h64",
           "name": "UKS SP WINNERS GOŁKOWICE II",
           "abbreviation": ""
         },
@@ -367,7 +367,7 @@
         "canDateTimeChange": true,
         "host": {
           "id": "50cbcd8c-0cc4-4e4a-9ba2-3c6aee3284bb",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/f/8/7/641cc698a893e47ddc06878f__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/f/8/7/641cc698a893e47ddc06878fw64h64",
           "name": "UKS AP CHAMPIONS JASTRZĘBIE-ZDRÓJ  II",
           "abbreviation": ""
         },
@@ -387,21 +387,21 @@
         "canDateTimeChange": true,
         "host": {
           "id": "79415f7f-e24e-4f8d-8854-3beadc2d0fd8",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/c/1/2/6127dce7eeb389649d4aa21c__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/c/1/2/6127dce7eeb389649d4aa21cw64h64",
           "name": "AP RYMER RYBNIK II",
           "abbreviation": ""
         },
         "guest": {
           "id": "98dc8e5f-07dd-46e4-a58a-498dc0baadc1",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/4/4/8/642098caa893e47ddc068844__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/4/4/8/642098caa893e47ddc068844w64h64",
           "name": "GKS PIERWSZY CHWAŁOWICE",
           "abbreviation": ""
         },
         "transmissions": []
       }
     ]
-  },
-  {
+	  },
+	  {
     "queue": 7,
     "matches": [
       {
@@ -413,13 +413,13 @@
         "canDateTimeChange": true,
         "host": {
           "id": "79415f7f-e24e-4f8d-8854-3beadc2d0fd8",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/c/1/2/6127dce7eeb389649d4aa21c__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/c/1/2/6127dce7eeb389649d4aa21cw64h64",
           "name": "AP RYMER RYBNIK II",
           "abbreviation": ""
         },
         "guest": {
           "id": "70e4e1e9-5e97-4641-ab44-cbb0c645301c",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/6/e/9/689f9f9fa893e47ddc14b9e6__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/6/e/9/689f9f9fa893e47ddc14b9e6w64h64",
           "name": "UKS RUPTAWA",
           "abbreviation": ""
         },
@@ -434,13 +434,13 @@
         "canDateTimeChange": true,
         "host": {
           "id": "98dc8e5f-07dd-46e4-a58a-498dc0baadc1",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/4/4/8/642098caa893e47ddc068844__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/4/4/8/642098caa893e47ddc068844w64h64",
           "name": "GKS PIERWSZY CHWAŁOWICE",
           "abbreviation": ""
         },
         "guest": {
           "id": "50cbcd8c-0cc4-4e4a-9ba2-3c6aee3284bb",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/f/8/7/641cc698a893e47ddc06878f__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/f/8/7/641cc698a893e47ddc06878fw64h64",
           "name": "UKS AP CHAMPIONS JASTRZĘBIE-ZDRÓJ  II",
           "abbreviation": ""
         },
@@ -460,15 +460,15 @@
         },
         "guest": {
           "id": "9d73f77e-69ea-499a-ba28-062d51db422d",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/2/a/67af6929a893e47ddc086a20__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/2/a/67af6929a893e47ddc086a20w64h64",
           "name": "UKS SP WINNERS GOŁKOWICE II",
           "abbreviation": ""
         },
         "transmissions": []
       }
     ]
-  },
-  {
+	  },
+	  {
     "queue": 8,
     "matches": [
       {
@@ -480,7 +480,7 @@
         "canDateTimeChange": true,
         "host": {
           "id": "70e4e1e9-5e97-4641-ab44-cbb0c645301c",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/6/e/9/689f9f9fa893e47ddc14b9e6__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/6/e/9/689f9f9fa893e47ddc14b9e6w64h64",
           "name": "UKS RUPTAWA",
           "abbreviation": ""
         },
@@ -494,19 +494,19 @@
       {
         "matchId": "81393cc0-7752-474b-83c4-a430598b2c30",
         "dateTime": "2026-10-29T00:00:00",
-        "stadium": "	Szybowa 22, 44-348 Krostoszowice",
+        "stadium": "Szybowa 22 , 44-348 Krostoszowice",
         "state": "Nierozegrany",
         "queue": 8,
         "canDateTimeChange": true,
         "host": {
           "id": "9d73f77e-69ea-499a-ba28-062d51db422d",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/2/a/67af6929a893e47ddc086a20__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/2/a/67af6929a893e47ddc086a20w64h64",
           "name": "UKS SP WINNERS GOŁKOWICE II",
           "abbreviation": ""
         },
         "guest": {
           "id": "98dc8e5f-07dd-46e4-a58a-498dc0baadc1",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/4/4/8/642098caa893e47ddc068844__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/4/4/8/642098caa893e47ddc068844w64h64",
           "name": "GKS PIERWSZY CHWAŁOWICE",
           "abbreviation": ""
         },
@@ -521,21 +521,21 @@
         "canDateTimeChange": true,
         "host": {
           "id": "50cbcd8c-0cc4-4e4a-9ba2-3c6aee3284bb",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/f/8/7/641cc698a893e47ddc06878f__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/f/8/7/641cc698a893e47ddc06878fw64h64",
           "name": "UKS AP CHAMPIONS JASTRZĘBIE-ZDRÓJ  II",
           "abbreviation": ""
         },
         "guest": {
           "id": "79415f7f-e24e-4f8d-8854-3beadc2d0fd8",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/c/1/2/6127dce7eeb389649d4aa21c__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/c/1/2/6127dce7eeb389649d4aa21cw64h64",
           "name": "AP RYMER RYBNIK II",
           "abbreviation": ""
         },
         "transmissions": []
       }
     ]
-  },
-  {
+	  },
+	  {
     "queue": 9,
     "matches": [
       {
@@ -547,13 +547,13 @@
         "canDateTimeChange": true,
         "host": {
           "id": "50cbcd8c-0cc4-4e4a-9ba2-3c6aee3284bb",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/f/8/7/641cc698a893e47ddc06878f__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/f/8/7/641cc698a893e47ddc06878fw64h64",
           "name": "UKS AP CHAMPIONS JASTRZĘBIE-ZDRÓJ  II",
           "abbreviation": ""
         },
         "guest": {
           "id": "70e4e1e9-5e97-4641-ab44-cbb0c645301c",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/6/e/9/689f9f9fa893e47ddc14b9e6__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/6/e/9/689f9f9fa893e47ddc14b9e6w64h64",
           "name": "UKS RUPTAWA",
           "abbreviation": ""
         },
@@ -568,13 +568,13 @@
         "canDateTimeChange": true,
         "host": {
           "id": "79415f7f-e24e-4f8d-8854-3beadc2d0fd8",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/c/1/2/6127dce7eeb389649d4aa21c__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/c/1/2/6127dce7eeb389649d4aa21cw64h64",
           "name": "AP RYMER RYBNIK II",
           "abbreviation": ""
         },
         "guest": {
           "id": "9d73f77e-69ea-499a-ba28-062d51db422d",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/2/a/67af6929a893e47ddc086a20__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/2/a/67af6929a893e47ddc086a20w64h64",
           "name": "UKS SP WINNERS GOŁKOWICE II",
           "abbreviation": ""
         },
@@ -589,7 +589,7 @@
         "canDateTimeChange": true,
         "host": {
           "id": "98dc8e5f-07dd-46e4-a58a-498dc0baadc1",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/4/4/8/642098caa893e47ddc068844__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/4/4/8/642098caa893e47ddc068844w64h64",
           "name": "GKS PIERWSZY CHWAŁOWICE",
           "abbreviation": ""
         },
@@ -601,8 +601,8 @@
         "transmissions": []
       }
     ]
-  },
-  {
+	  },
+	  {
     "queue": 10,
     "matches": [
       {
@@ -614,13 +614,13 @@
         "canDateTimeChange": true,
         "host": {
           "id": "70e4e1e9-5e97-4641-ab44-cbb0c645301c",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/6/e/9/689f9f9fa893e47ddc14b9e6__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/6/e/9/689f9f9fa893e47ddc14b9e6w64h64",
           "name": "UKS RUPTAWA",
           "abbreviation": ""
         },
         "guest": {
           "id": "98dc8e5f-07dd-46e4-a58a-498dc0baadc1",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/4/4/8/642098caa893e47ddc068844__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/4/4/8/642098caa893e47ddc068844w64h64",
           "name": "GKS PIERWSZY CHWAŁOWICE",
           "abbreviation": ""
         },
@@ -640,7 +640,7 @@
         },
         "guest": {
           "id": "79415f7f-e24e-4f8d-8854-3beadc2d0fd8",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/c/1/2/6127dce7eeb389649d4aa21c__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/c/1/2/6127dce7eeb389649d4aa21cw64h64",
           "name": "AP RYMER RYBNIK II",
           "abbreviation": ""
         },
@@ -649,24 +649,25 @@
       {
         "matchId": "d2f80ab8-cc63-4164-b175-658cb162243c",
         "dateTime": "2026-11-07T13:00:00",
-        "stadium": "Szybowa 22, 44-348 Krostoszowice",
+        "stadium": "Szybowa 22 , 44-348 Krostoszowice",
         "state": "Nierozegrany",
         "queue": 10,
         "canDateTimeChange": true,
         "host": {
           "id": "9d73f77e-69ea-499a-ba28-062d51db422d",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/2/a/67af6929a893e47ddc086a20__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/0/2/a/67af6929a893e47ddc086a20w64h64",
           "name": "UKS SP WINNERS GOŁKOWICE II",
           "abbreviation": ""
         },
         "guest": {
           "id": "50cbcd8c-0cc4-4e4a-9ba2-3c6aee3284bb",
-          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/f/8/7/641cc698a893e47ddc06878f__w64__h64",
+          "logo": "https://cdn.laczynaspilka.pl/content/static/pz/images/f/8/7/641cc698a893e47ddc06878fw64h64",
           "name": "UKS AP CHAMPIONS JASTRZĘBIE-ZDRÓJ  II",
           "abbreviation": ""
         },
         "transmissions": []
       }
     ]
-  }
-]
+	  }
+	]
+
