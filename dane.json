@@ -5,7 +5,7 @@
       {
         "matchId": "dc0f803e-f36e-45d7-94a3-8307bf91a313",
         "dateTime": "2026-09-05T13:00:00",
-        "stadium": "Krostoszowice 53 , 44-340 Godów",
+        "stadium": "Szybowa 22, 44-348 Krostoszowice",
         "state": "Nierozegrany",
         "queue": 1,
         "canDateTimeChange": true,
@@ -114,7 +114,7 @@
       {
         "matchId": "0ca8afa1-6d86-4296-96d8-ef98957709cf",
         "dateTime": "2026-09-15T17:45:00",
-        "stadium": "Krostoszowice 53 , 44-340 Godów",
+        "stadium": "Szybowa 22, 44-348 Krostoszowice",
         "state": "Nierozegrany",
         "queue": 2,
         "canDateTimeChange": true,
@@ -247,7 +247,7 @@
       {
         "matchId": "0e0c651c-ab99-42f7-84b0-4d80d1ee4987",
         "dateTime": "2026-10-01T18:00:00",
-        "stadium": "Krostoszowice 53 , 44-340 Godów",
+        "stadium": "	Szybowa 22, 44-348 Krostoszowice",
         "state": "Nierozegrany",
         "queue": 4,
         "canDateTimeChange": true,
@@ -493,8 +493,8 @@
       },
       {
         "matchId": "81393cc0-7752-474b-83c4-a430598b2c30",
-        "dateTime": "2026-10-24T13:00:00",
-        "stadium": "Krostoszowice 53 , 44-340 Godów",
+        "dateTime": "2026-10-29T00:00:00",
+        "stadium": "	Szybowa 22, 44-348 Krostoszowice",
         "state": "Nierozegrany",
         "queue": 8,
         "canDateTimeChange": true,
@@ -649,7 +649,7 @@
       {
         "matchId": "d2f80ab8-cc63-4164-b175-658cb162243c",
         "dateTime": "2026-11-07T13:00:00",
-        "stadium": "Krostoszowice 53 , 44-340 Godów",
+        "stadium": "Szybowa 22, 44-348 Krostoszowice",
         "state": "Nierozegrany",
         "queue": 10,
         "canDateTimeChange": true,
